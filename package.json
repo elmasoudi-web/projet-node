@@ -1,0 +1,19 @@
+{
+  "name": "projet-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+      "mocha": "^10.8.2"
+},
+"scripts": {
+    "test": "mocha"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "mocha": "^11.7.5"
+  }
+}
